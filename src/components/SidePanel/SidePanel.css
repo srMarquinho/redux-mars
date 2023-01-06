@@ -1,0 +1,6 @@
+.side-panel {
+  width: 20%;
+  border-right: 1px solid lightgray;
+  margin-right: -1px;
+  padding: 0 2%;
+}
